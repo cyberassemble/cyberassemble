@@ -1,16 +1,14 @@
-### Hi there 👋
+# **👋 Hello,**
 
-<!--
-**cyberassemble/cyberassemble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Github Stat
 
-Here are some ideas to get you started:
+![Stats](https://github-stats-alpha.vercel.app/api/?username=cyberassemble&cc=fff&tc=DF7431&ic=DF7431)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=bootstrap,php,css,bots,django,go,java,wordpress,git,kubernetes,docker,c,vim,aws,gcp,azure,react,vue,flutter,kotlin,nodejs,figma&theme=light)
+
+### ⚡ Connect
+
+[Telegram](https://telegram.dog/cyberxbd "Telegram") -->
+  <!-- [![Footer](https://avatars.githubusercontent.com/u/103957663?v=4 "Footer")](http://mosafirr.github.io "Footer")
