@@ -1,5 +1,7 @@
 # **👋 Hello,**
 
+![langs](https://api.githubtrends.io/user/svg/cyberassemble/langs?time_range=one_year&use_percent=True&compact=True&theme=classic)
+
 ### ⚡ Github Stat
 
 ![Stats](https://github-stats-alpha.vercel.app/api/?username=cyberassemble&cc=fff&tc=DF7431&ic=DF7431)
